@@ -4,6 +4,5 @@ lyria-env/
 __pycache__/
 *.pyc
 shots/
-radio_logs/
 state.bmp
 *.tmp
