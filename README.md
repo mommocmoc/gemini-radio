@@ -1,4 +1,4 @@
-# NanoBanana Radio — Scene-Driven Real-Time Music Radio
+# Gemini Radio — Scene-Driven Real-Time Music Radio
 
 A Raspberry Pi photographs a landscape, Gemini 3.1 Flash Lite reads its mood, and
 Lyria RealTime generates / varies instrumental music to match. Controlled by
